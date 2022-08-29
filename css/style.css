@@ -90,9 +90,9 @@ body main .backgrounddown .chosetarif button{
     line-height: 19px;
     cursor: pointer;
 }
-/* body header .headerblock3 button.buttontext .links{
-    color: #F53855;
-} */
+header .signin a{
+    color: #0B132A;
+}
 #colorred{
     color: #F53855;
 }
